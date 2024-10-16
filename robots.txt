@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vicurewei.github.io/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/app/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/assets/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/css/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/includes/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/item/sitemap.html.gz
+Sitemap: https://vicurewei.github.io/src/sitemap.html.gz
